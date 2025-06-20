@@ -1,0 +1,14 @@
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\EcommercePlatformSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\EcommercePlatformSearchFunction.AssemblyInfoInputs.cache
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\EcommercePlatformSearchFunction.AssemblyInfo.cs
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\EcommercePlatformSearchFunction.csproj.CoreCompileInputs.cache
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\bin\Debug\net9.0\EcommercePlatformSearchFunction.exe
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\bin\Debug\net9.0\EcommercePlatformSearchFunction.deps.json
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\bin\Debug\net9.0\EcommercePlatformSearchFunction.runtimeconfig.json
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\bin\Debug\net9.0\EcommercePlatformSearchFunction.dll
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\bin\Debug\net9.0\EcommercePlatformSearchFunction.pdb
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\EcommercePlatformSearchFunction.dll
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\refint\EcommercePlatformSearchFunction.dll
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\EcommercePlatformSearchFunction.pdb
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\EcommercePlatformSearchFunction.genruntimeconfig.cache
+D:\Cognizant Exercises\Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\obj\Debug\net9.0\ref\EcommercePlatformSearchFunction.dll

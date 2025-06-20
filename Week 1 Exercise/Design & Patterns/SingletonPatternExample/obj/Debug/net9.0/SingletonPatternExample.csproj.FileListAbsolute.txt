@@ -1,0 +1,14 @@
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.exe
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.deps.json
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.dll
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.pdb
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.dll
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.pdb
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\SingletonPatternExample\obj\Debug\net9.0\ref\SingletonPatternExample.dll
