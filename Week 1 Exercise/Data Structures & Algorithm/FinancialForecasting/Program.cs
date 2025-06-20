@@ -41,7 +41,7 @@ namespace FinancialForecasting
             // calling the recursive method to predict future value
             double predicted = Forecasting.PredictFutureValueRecursive(currentValue, avgGrowth, futureYears);
 
-            Console.WriteLine($"📈 Predicted Value after {futureYears} years (using recursion): ₹{predicted:F2}");
+            Console.WriteLine($" Predicted Value after {futureYears} years (using recursion): ₹{predicted:F2}");
         }
     }
 }
