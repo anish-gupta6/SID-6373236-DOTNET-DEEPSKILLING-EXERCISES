@@ -1,0 +1,56 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 1 Exercise", "Week 1 Exercise", "{0CA4A825-EDF5-AD7E-E521-FE215FDFF9A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Structures & Algorithm", "Data Structures & Algorithm", "{74CB9FB3-4E39-FA48-5723-C8B6BCBAE7C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommercePlatformSearchFunction", "Week 1 Exercise\Data Structures & Algorithm\EcommercePlatformSearchFunction\EcommercePlatformSearchFunction.csproj", "{267D0299-F520-C02A-05E3-6B9074AE2A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialForecasting", "Week 1 Exercise\Data Structures & Algorithm\FinancialForecasting\FinancialForecasting.csproj", "{BB2CB5DE-02F5-DAA7-F183-9C6E3F4495D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design Principles & Patterns", "Design Principles & Patterns", "{DF59DE44-DD9A-232E-38A5-4E1CC3CAD810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPatternExample", "Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\FactoryMethodPatternExample.csproj", "{8F2C4AE5-1FC2-82D2-2B95-E700832792A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPatternExample", "Week 1 Exercise\Design Principles & Patterns\SingletonPatternExample\SingletonPatternExample.csproj", "{24D44327-C02E-C6C1-CD37-27E8E52D6406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267D0299-F520-C02A-05E3-6B9074AE2A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267D0299-F520-C02A-05E3-6B9074AE2A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267D0299-F520-C02A-05E3-6B9074AE2A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267D0299-F520-C02A-05E3-6B9074AE2A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2CB5DE-02F5-DAA7-F183-9C6E3F4495D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2CB5DE-02F5-DAA7-F183-9C6E3F4495D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2CB5DE-02F5-DAA7-F183-9C6E3F4495D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2CB5DE-02F5-DAA7-F183-9C6E3F4495D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2C4AE5-1FC2-82D2-2B95-E700832792A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2C4AE5-1FC2-82D2-2B95-E700832792A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2C4AE5-1FC2-82D2-2B95-E700832792A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2C4AE5-1FC2-82D2-2B95-E700832792A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D44327-C02E-C6C1-CD37-27E8E52D6406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D44327-C02E-C6C1-CD37-27E8E52D6406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D44327-C02E-C6C1-CD37-27E8E52D6406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D44327-C02E-C6C1-CD37-27E8E52D6406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{74CB9FB3-4E39-FA48-5723-C8B6BCBAE7C6} = {0CA4A825-EDF5-AD7E-E521-FE215FDFF9A4}
+		{267D0299-F520-C02A-05E3-6B9074AE2A80} = {74CB9FB3-4E39-FA48-5723-C8B6BCBAE7C6}
+		{BB2CB5DE-02F5-DAA7-F183-9C6E3F4495D6} = {74CB9FB3-4E39-FA48-5723-C8B6BCBAE7C6}
+		{DF59DE44-DD9A-232E-38A5-4E1CC3CAD810} = {0CA4A825-EDF5-AD7E-E521-FE215FDFF9A4}
+		{8F2C4AE5-1FC2-82D2-2B95-E700832792A3} = {DF59DE44-DD9A-232E-38A5-4E1CC3CAD810}
+		{24D44327-C02E-C6C1-CD37-27E8E52D6406} = {DF59DE44-DD9A-232E-38A5-4E1CC3CAD810}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9B48367-07CE-402F-8B4F-37D98EE9F8DB}
+	EndGlobalSection
+EndGlobal

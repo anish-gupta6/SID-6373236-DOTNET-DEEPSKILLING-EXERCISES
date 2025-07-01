@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cognizant Exercises\\Week 1 Exercise\\Design & Patterns\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {}
+    "D:\\Cognizant Exercises\\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\\Week 1 Exercise\\Design Principles & Patterns\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {}
   },
   "projects": {
-    "D:\\Cognizant Exercises\\Week 1 Exercise\\Design & Patterns\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {
+    "D:\\Cognizant Exercises\\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\\Week 1 Exercise\\Design Principles & Patterns\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cognizant Exercises\\Week 1 Exercise\\Design & Patterns\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+        "projectUniqueName": "D:\\Cognizant Exercises\\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\\Week 1 Exercise\\Design Principles & Patterns\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
         "projectName": "FactoryMethodPatternExample",
-        "projectPath": "D:\\Cognizant Exercises\\Week 1 Exercise\\Design & Patterns\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+        "projectPath": "D:\\Cognizant Exercises\\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\\Week 1 Exercise\\Design Principles & Patterns\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
         "packagesPath": "C:\\Users\\gupta\\.nuget\\packages\\",
-        "outputPath": "D:\\Cognizant Exercises\\Week 1 Exercise\\Design & Patterns\\FactoryMethodPatternExample\\obj\\",
+        "outputPath": "D:\\Cognizant Exercises\\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\\Week 1 Exercise\\Design Principles & Patterns\\FactoryMethodPatternExample\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gupta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

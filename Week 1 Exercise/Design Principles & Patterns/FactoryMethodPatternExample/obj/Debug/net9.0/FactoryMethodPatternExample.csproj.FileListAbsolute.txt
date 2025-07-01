@@ -12,3 +12,18 @@ D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\FactoryMethodPatternExa
 D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.pdb
 D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.genruntimeconfig.cache
 D:\Cognizant Exercises\Week 1 Exercise\Design & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\ref\FactoryMethodPatternExample.dll
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.exe
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.deps.json
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.runtimeconfig.json
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.dll
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.pdb
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfo.cs
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.sourcelink.json
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.dll
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\refint\FactoryMethodPatternExample.dll
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.pdb
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.genruntimeconfig.cache
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 1 Exercise\Design Principles & Patterns\FactoryMethodPatternExample\obj\Debug\net9.0\ref\FactoryMethodPatternExample.dll
