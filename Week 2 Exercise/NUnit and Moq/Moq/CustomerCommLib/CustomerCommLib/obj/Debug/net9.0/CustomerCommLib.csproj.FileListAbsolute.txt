@@ -1,0 +1,12 @@
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.sourcelink.json
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+D:\Cognizant Exercises\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\Week 2 Exercise\NUnit and Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll
