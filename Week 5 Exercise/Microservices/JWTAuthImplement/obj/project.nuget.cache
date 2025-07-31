@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ydh1/7Und8=",
+  "success": true,
+  "projectFilePath": "D:\\Cognizant Exercises\\SID-6373236-DOTNET-DEEPSKILLING-EXERCISES\\Week 5 Exercise\\Microservices\\JWTAuthImplement\\JWTAuthImplement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.7\\microsoft.aspnetcore.authentication.jwtbearer.9.0.7.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.13.0\\microsoft.identitymodel.abstractions.8.13.0.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.13.0\\microsoft.identitymodel.jsonwebtokens.8.13.0.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.identitymodel.logging\\8.13.0\\microsoft.identitymodel.logging.8.13.0.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.13.0\\microsoft.identitymodel.tokens.8.13.0.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.13.0\\system.identitymodel.tokens.jwt.8.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}

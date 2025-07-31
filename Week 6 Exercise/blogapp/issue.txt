@@ -1,0 +1,2 @@
+since, React has been moved from class based to function based components. ComponentDidMount() has been replaced by useEffect() hook
+and ComponentDidCatch() has been removed and useEffect() hook can't handle errors directly.
