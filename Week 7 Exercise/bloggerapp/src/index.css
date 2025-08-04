@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+    gap: 20px;
+}
+.border{
+    border-right: 5px solid green;
+}
